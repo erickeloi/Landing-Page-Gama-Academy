@@ -13,5 +13,3 @@ Entregáveis:
 -Cadastre seu e-mail para receber promoções 
 
 -Dados no localstorage
-
-- >Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
